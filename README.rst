@@ -1,8 +1,8 @@
 ====================================
-d3a: Decentralized Autonomous Area Agent
+d3a: Decentralized Autonomous Area Agent (Forked for Telos Searl Effect Generator UEC integration)
 ====================================
 
-The D3A is being developed by Grid Singularity as an interface and codebase to model, simulate, optimize and (coming soon) download and deploy a custom energy exchange. See more at https://www.d3a.io .
+The D3A is being developed by Grid Singularity as an interface and codebase to model, simulate, optimize and (coming soon) download and deploy a custom energy exchange. See more at https://www.d3a.io .  This energy DEX will allow anyone to trade their own energy against EOSIO easy to work with smart contracts alowing for a future where anyone needing electricity can request it on the energy worker proposal system
 
 Code of Conduct
 ===============
@@ -22,7 +22,7 @@ After cloning this project setup a Python 3.6 virtualenv and install `fabric3`_:
 
     ~# pip install fabric3
 
-
+(solidity sucks and eosio and python rules buut.....)
 To install solidity follow the steps here:
 
 https://solidity.readthedocs.io/en/v0.5.1/installing-solidity.html#binary-packages
